@@ -39,12 +39,12 @@ export const Navbar = () => {
                     <Link to="/cart">
                         <button className="bttn"><ShoppingCart size={32} /></button>
                     </Link>
-                    <Link to="/signin">
+{/*                     <Link to="/signin">
                         <button className="bttn"><b>Sign In</b></button>
                     </Link>
                     <Link to="/signup">
                         <button className="bttn"><b>Sign Up</b></button>
-                    </Link>
+                    </Link> */}
                 </div>
             
         </div>
